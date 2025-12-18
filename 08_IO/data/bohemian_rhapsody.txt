@@ -1,0 +1,5 @@
+Title = Bohemian Rhapsody
+Artist = Queen
+Album = A Night at the Opera
+Duration = 354
+Genre = Rock

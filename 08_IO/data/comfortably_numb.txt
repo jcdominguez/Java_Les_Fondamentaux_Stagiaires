@@ -1,0 +1,5 @@
+Title = Comfortably Numb
+Artist = Pink Floyd
+Album = The Wall
+Duration = 384
+Genre = Rock

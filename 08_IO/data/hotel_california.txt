@@ -1,0 +1,5 @@
+Title = Hotel California
+Artist = Eagles
+Album = Hotel California
+Duration = 391
+Genre = Rock
